@@ -1,0 +1,33 @@
+#news {
+
+    border:solid black 7px;
+}
+
+div.mexico {
+    background-color:#006341;
+    border:solid #ce1126 5px;
+}
+
+div.chaplin {
+    background-color:gray;
+    border:solid black 5px;
+}
+
+div.olympics {
+    background-color:#002654;
+    border:solid #ED2939 5px;
+}
+
+div.ronaldo {
+    background-color:#DA291C;
+    border:solid #046A38 5px;
+}
+
+
+div.brady {
+    background-color:#002244;
+    border:solid #C60C30 5px;
+}
+.reed{
+    border: solid green 5px;
+}
