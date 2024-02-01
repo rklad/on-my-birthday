@@ -19,7 +19,7 @@ div.olympics {
 }
 
 div.ronaldo {
-    background-color:#DA291C;
+    background-color:#ca323f;
     border:solid #046A38 5px;
 }
 
@@ -31,4 +31,6 @@ div.brady {
 
 .image {
     border:5px solid black;
+    border-radius: 50px;
 }
+
